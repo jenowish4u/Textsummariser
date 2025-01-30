@@ -1,4 +1,4 @@
-# Project Name
+# TEXT SUMMARISER
 
 Generating summary from the text content
 
